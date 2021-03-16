@@ -20,7 +20,6 @@ const useStyles = makeStyles((theme) => ({
 const ShowHistory = ({ history, open, handleClose }) => {
 	const classes = useStyles();
 	const nodeRef = useRef(null);
-	console.log(history.length === 0);
 
 	return (
 		<Modal
