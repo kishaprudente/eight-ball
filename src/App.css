@@ -1,17 +1,9 @@
 .App {
 	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 .icon {
 	width: 25%;
 	height: 25%;
-}
-
-@keyframes App-logo-spin {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: rotate(360deg);
-	}
 }
